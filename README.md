@@ -25,14 +25,14 @@
 ```bash
 cd Backend
 npm install
-npm start
+npx nodemon
 ```
 
 ### 🎨 Frontend Setup
 ```bash
 cd Frontend
 npm install
-npm start
+npm run dev
 ```
 
 ## 📡 API Usage
