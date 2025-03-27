@@ -2,7 +2,7 @@
 <img width="1440" alt="Screenshot 2025-03-27 at 11 33 00 PM" src="https://github.com/user-attachments/assets/70610fe4-2de3-4c1a-9682-34a5d19c9afb" />  
 
 # AI Code Review 🚀
-### A powerful AI-driven code review tool that helps developers analyze, optimize, and improve their code using advanced AI models.
+A powerful AI-driven code review tool that helps developers analyze, optimize, and improve their code using advanced AI models.
 
 ## 📌 Features
 
